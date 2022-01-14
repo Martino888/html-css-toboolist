@@ -47,6 +47,9 @@ main{
     border-radius: 15px ;
 }
 
+button{
+    border-radius: 15px; 
+}
 .hr1{
     margin: left 0px;;
 }
