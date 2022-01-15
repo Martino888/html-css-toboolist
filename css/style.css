@@ -25,6 +25,13 @@ h1{
     font-size: 15px;
 }
 
+#check{
+    border:solid green;
+    border-radius: 50%;
+    text-decoration: chartreuse;
+    color: chartreuse;
+}
+
 #margin{
     background-color: rgb(245, 246, 246);
     padding: 2em;
