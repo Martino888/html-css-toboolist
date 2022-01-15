@@ -26,10 +26,15 @@ h1{
 }
 
 #check{
-    border:solid green;
+    border:solid rgb(35, 184, 35);
     border-radius: 50%;
-    text-decoration: chartreuse;
     color: chartreuse;
+}
+
+.x{
+    border:solid rgb(255, 0, 0);
+    border-radius: 50%;
+    color: rgb(255, 0, 0);
 }
 
 #margin{
@@ -39,7 +44,7 @@ h1{
 
 .cerchio{
     list-style-type: none;
-    text-align:20px
+    text-align:300px
 }
 
 
