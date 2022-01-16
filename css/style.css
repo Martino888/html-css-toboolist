@@ -1,24 +1,34 @@
-
-
 body {
 font-family: sans-serif;
 }
 
-.color1{
-    padding: 10px;
-    margin-top: 0%;
-}
-
+/*logo and title*/
 .page-header nav{
     line-height: 1;
     display: inline;
     vertical-align: middle;
 }
+
 .page-header img{
 vertical-align: middle;
 }
+
 h1{
     display: inline;
+    font-size: 30px;
+}
+
+/*main and list */
+.container2{
+    background-color:white; 
+    width: 700px;
+    height: 550px; 
+    margin-left: 20%;
+    margin-top: 10px;
+    padding: 50px;
+    border-top: 100px;
+    border-radius: 10px ;
+    line-height: 5%;
 }
 
 .arrow{
@@ -43,30 +53,12 @@ h1{
 }
 
 .cerchio{
-    list-style-type: none;
-    text-align:300px
+    padding:0; 
+    list-style-type:none;
 }
-
 
 .list-1{
     font-size: 10px;
-
-}
-
-.container2{
-    background-color:white; 
-    width: 700px;
-    height: 550px; 
-    margin-left: 20%;
-    margin-top: 10px;
-    padding: 50px;
-    border-top: 100px;
-    border-radius: 10px ;
-    line-height: 5%;
-}
-
-.format{
-    border-radius: 10px;
 }
 
 .check {
