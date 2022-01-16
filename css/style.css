@@ -63,12 +63,12 @@ h1{
 }
 
 .check {
-    width: 20px;
-    height: 20px;
-    border-radius: 25px;
-    background:greenyellow;
-    box-sizing: content-box;
+    border:solid rgb(35, 184, 35);
+    border-radius: 50%;
+    color: chartreuse;
 }
+
+
 
 /*radius and color button */
 .format{
@@ -121,5 +121,5 @@ h1{
 }
 
 .hr1{
-    margin: left 0px;;
+    margin: left 0px;
 }
